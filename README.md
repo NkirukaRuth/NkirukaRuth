@@ -8,16 +8,16 @@ Welcome to my GitHub profile! I am a dedicated Data Analyst, PowerBi Specialist,
 
 With a background in Economics, I transitioned into the tech industry, leveraging my analytical skills to help businesses adopt data-driven solutions that enhance efficiency and innovation. Subsequently proficient with CRM Software such as **Go Highlevel**, and **HubSpot**
 
-Beyond my technical expertise, I am passionate about knowledge sharing. I regularly contribute to the tech community through my blog, Chiasauka Data Dive Hub [Chiasauka Data Dive Hub](https://chiasauka.hashnode.dev/), where I explore topics related to \*\*Data Analytics, Data Visualization and AI, providing insights and best practices to help others navigate the world of technology.
+Beyond my technical expertise, I am passionate about knowledge sharing. I regularly contribute to the tech community through my blog, Chiasauka Data Dive Hub [Chiasauka Data Dive Hub](https://chiasauka.hashnode.dev/), where I explore topics related to **Data Analytics**, **Data Visualization** and **AI**, providing insights and best practices to help others navigate the world of technology.
 
 ---
 
 ## 🚀 About Me
 
 * 🎓 Background: Transitioned from **Economics** to **Data Analyst** and **IT Support**
-* 📝 Tech Blogger: [Chiasauka Data Dive Hub](https://chiasauka.hashnode.dev/) — Writing about \**Data Analytics**, \**Data Visualization** and \**AI**
-* 📈 Specialization: \**Data Analysis**, \**Data Visualization**, \**SQL**, \**Business Intelligence**, \**CRM software** and \**Workflow Automation**.
-* ✨ Passionate about: \**AI-driven analytics**, and \**workflow automation** for business transformation.
+* 📝 Tech Blogger: [Chiasauka Data Dive Hub](https://chiasauka.hashnode.dev/) — Writing about **Data Analytics**, **Data Visualization** and **AI**
+* 📈 Specialization: **Data Analysis**, **Data Visualization**, **SQL**, **Business Intelligence**, **CRM software** and **Workflow Automation**.
+* ✨ Passionate about: **AI-driven analytics**, and **workflow automation** for business transformation.
 
 ---
 
