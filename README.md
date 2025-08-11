@@ -6,7 +6,7 @@
 
 Welcome to my GitHub profile! I am a dedicated Data Analyst, PowerBi Specialist, and IT Support Personnel with a strong passion for data analytics, Insight Visualizer and workflow automation. My expertise lies in transforming raw data into valuable insights, designing and implementing scalable workflow automations data to streamlining operations through best analytical practices with a grasps of **Microsoft Excel**, **Google sheet**, **Power Query**, **Pivot Table**, **MySQL**, **PostgreSQL**, **PowerBI**, **PowerPoint**, **AI**, **ChatGPT**, and **Python**
 
-With a background in Economics, I transitioned into the tech industry, leveraging my analytical skills to help businesses adopt data-driven solutions that enhance efficiency and innovation with CRM Software such as **Go Highlevel**, and **HubSpot**
+With a background in Economics, I transitioned into the tech industry, leveraging my analytical skills to help businesses adopt data-driven solutions that enhance efficiency and innovation.Subsequently proficient with CRM Software such as **Go Highlevel**, and **HubSpot**
 
 Beyond my technical expertise, I am passionate about knowledge sharing. I regularly contribute to the tech community through my blog, Chiasauka Data Dive Hub [Chiasauka Data Dive Hub](https://chiasauka.hashnode.dev/), where I explore topics related to \*\*Data Analytics, Data Visualization and AI, providing insights and best practices to help others navigate the world of technology.
 
